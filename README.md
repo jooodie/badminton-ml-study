@@ -23,3 +23,6 @@ This is an exploratory study aimed at:
 - building intuition for ML pipeline design
 
 It is not intended to be a production-ready evaluation system.
+
+For detailed problem formulation and study design, see `docs/project_notes.md`.
+
